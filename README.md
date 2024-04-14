@@ -5,6 +5,10 @@
 
 **📊 Data enthusiast and self-starter with a knack for deciphering complex datasets. Using Python, SQL, and Tableau, I transform data into actionable insights that drive business growth.**
 
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=manpreet0204&label=Profile%20views&color=0e75b6&style=flat" alt="Manpreet Kaur Gurtatta" /> 
+
 ## Let's Connect and chat🤝
 
 - **Email**: [mg70@illinois.edu](mailto:mg70@illinois.edu)
