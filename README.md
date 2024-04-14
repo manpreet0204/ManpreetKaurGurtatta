@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!
-🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# Hey everyone!
+
+![Data Image](https://image.freepik.com/free-vector/abstract-binary-code-background_52683-19068.jpg)
+
 
 
 
