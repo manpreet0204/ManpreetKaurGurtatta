@@ -11,6 +11,24 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=manpreet0204&label=Profile%20views&color=0e75b6&style=flat" alt="Manpreet Kaur Gurtatta" /> 
 
+<h3 align="left">About Me:</h3>
+- 🎓 Information Management graduate student at the University of Illinois Urbana-Champaign.
+- 🔍 Actively seeking full-time opportunities in Data Analytics, Business Analytics, Marketing Analytics, and Technology Consulting.
+- 💼 Proficient in data analysis, visualization, and interpretation.
+- 💻 Skilled in Python, R, SQL, and Excel for data manipulation and analysis.
+- 📊 Experienced in creating insightful reports and dashboards using Tableau and Power BI.
+- ☁️ Currently expanding knowledge in cloud computing and data management with Azure.
+
+<h3 align="left">Let's connect:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/manpreet-kaur-gurtatta-9634ab19b/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manpreet-kaur-gurtatta" height="30" width="40" />
+    </a>
+    <a href="mailto:manpreetkaur.gurtatta@gmail.com" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="manpreetkaur.gurtatta@gmail.com" height="30" width="40" />
+    </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,7 +50,6 @@
 
 
 
-## Let's Connect and chat🤝
 
 - **Email**: [mg70@illinois.edu](mailto:mg70@illinois.edu)
 - **LinkedIn**: [Manpreet Kaur Gurtatta](https://www.linkedin.com/in/manpreet-kaur-gurtatta-9634ab19b/)
