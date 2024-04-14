@@ -13,21 +13,29 @@
 
 <h3 align="left">About Me:</h3>
 - 🎓 Information Management graduate student at the University of Illinois Urbana-Champaign.
+
 - 🔍 Actively seeking full-time opportunities in Data Analytics, Business Analytics, Marketing Analytics, and Technology Consulting.
+  
 - 💼 Proficient in data analysis, visualization, and interpretation.
+  
 - 💻 Skilled in Python, R, SQL, and Excel for data manipulation and analysis.
+  
 - 📊 Experienced in creating insightful reports and dashboards using Tableau and Power BI.
+  
 - ☁️ Currently expanding knowledge in cloud computing and data management with Azure.
+  
+</p>
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/manpreet-kaur-gurtatta-9634ab19b/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manpreet-kaur-gurtatta" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/manpreet-kaur-gurtatta-9634ab19b/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align:middle;margin-right:10px;" />
     </a>
-    <a href="mailto:manpreetkaur.gurtatta@gmail.com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="manpreetkaur.gurtatta@gmail.com" height="30" width="40" />
+    <a href="mailto:manpreetkaur.gurtatta@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="30" style="vertical-align:middle;" />
     </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,9 +55,3 @@
     <a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
-
-
-
-
-- **Email**: [mg70@illinois.edu](mailto:mg70@illinois.edu)
-- **LinkedIn**: [Manpreet Kaur Gurtatta](https://www.linkedin.com/in/manpreet-kaur-gurtatta-9634ab19b/)
