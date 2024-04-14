@@ -2,6 +2,7 @@
 
 # Hi, I'm Manpreet 👋🏻
 </p>
+
 **📊 Data enthusiast and self-starter with a knack for deciphering complex datasets. Using Python, SQL, and Tableau, I transform data into actionable insights that drive business growth.**
 
 ## Let's Connect and chat🤝
