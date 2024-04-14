@@ -15,15 +15,15 @@
 
 - 🎓 Information Management graduate student at the University of Illinois Urbana-Champaign.
 
-- 🔍 Actively seeking full-time opportunities in Data Analytics, Business Analytics, Marketing Analytics, and Technology Consulting.
+- 🔍 Actively seeking full-time opportunities in **Data Analytics, Business Analytics, Marketing Analytics, and Technology Consulting**.
   
 - 💼 Proficient in data analysis, visualization, and interpretation.
   
-- 💻 Skilled in Python, R, SQL, and Excel for data manipulation and analysis.
+- 💻 Skilled in **Python, R, SQL, and MS Excel for data manipulation and analysis**.
   
-- 📊 Experienced in creating insightful reports and dashboards using Tableau and Power BI.
+- 📊 Experienced in creating insightful reports and dashboards using **Tableau and Microsoft Power BI**.
   
-- ☁️ Currently expanding knowledge in cloud computing and data management with Azure.
+- ☁️ Currently expanding knowledge in **cloud computing and data management with Azure**.
   
 </p>
 
@@ -37,12 +37,11 @@
     </a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.rstudio.com/wp-content/uploads/2020/03/RStudio-Logo-Flat.png" alt="rstudio" width="40" height="40"/></a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
+    <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png" alt="rstudio" width="40" height="40"/></a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tableau_Logo.svg/1280px-Tableau_Logo.svg.png" alt="tableau" width="40" height="40"/></a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
