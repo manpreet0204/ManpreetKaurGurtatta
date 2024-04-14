@@ -1,6 +1,7 @@
 # Hey everyone!
 
-![Data Image](https://image.freepik.com/free-vector/abstract-binary-code-background_52683-19068.jpg)
+![Data Analytics](https://image.freepik.com/free-vector/data-analytics-concept-illustration_114360-1032.jpg)
+
 
 
 
