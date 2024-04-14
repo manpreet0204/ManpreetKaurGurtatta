@@ -1,9 +1,11 @@
-![image](https://github.com/manpreet0204/manpreet0204/assets/147951230/8b8174aa-1073-4b82-a93e-67d2391e5855)
-
-# Hi, I'm Manpreet 👋🏻
+<p align="center">
+  <img src="https://github.com/manpreet0204/manpreet0204/assets/147951230/8b8174aa-1073-4b82-a93e-67d2391e5855"alt="MasterHead">
 </p>
 
-**📊 Data enthusiast and self-starter with a knack for deciphering complex datasets. Using Python, SQL, and Tableau, I transform data into actionable insights that drive business growth.**
+<h1 align="center">Hi, I'm Manpreet 👋🏻</h1>
+</p>
+
+<h3 align="center">**📊 Data enthusiast and self-starter with a knack for deciphering complex datasets. Using Python, SQL, and Tableau, I transform data into actionable insights that drive business growth.**</h3>
 
 
 <p align="center"> 
