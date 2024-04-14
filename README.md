@@ -12,6 +12,7 @@
  <img src="https://komarev.com/ghpvc/?username=manpreet0204&label=Profile%20views&color=0e75b6&style=flat" alt="Manpreet Kaur Gurtatta" /> 
 
 <h3 align="left">About Me:</h3>
+
 - 🎓 Information Management graduate student at the University of Illinois Urbana-Champaign.
 
 - 🔍 Actively seeking full-time opportunities in Data Analytics, Business Analytics, Marketing Analytics, and Technology Consulting.
@@ -32,10 +33,9 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align:middle;margin-right:10px;" />
     </a>
     <a href="mailto:manpreetkaur.gurtatta@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="30" style="vertical-align:middle;" />
+        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" style="vertical-align:middle;" />
     </a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
